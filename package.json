@@ -4,7 +4,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "set PORT=3001 && set HTTPS=true && node server.js --host=0.0.0.0"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
